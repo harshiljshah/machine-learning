@@ -1,2 +1,2 @@
 # Vector Addition Parallel Programming
-Cuda C++ code to perform vector addition parallelly.
+CUDA C++ code to perform vector addition parallelly.
